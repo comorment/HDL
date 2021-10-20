@@ -2,6 +2,11 @@
 Singularity wrapper for https://github.com/zhenin/HDL
 
 The original reference and example data are included in this repository.
+The referece data was extracted from .tar.gz files:
+
+* UKB_imputed_SVD_eigen99_extraction.tar.gz - MD5 sum b1ba0081dc0f7cbf626c0e711e88a2e9
+* UKB_imputed_hapmap2_SVD_eigen99_extraction.tar.gz - MD5 sum dba426aae48662ff2cb00daa246c2ade
+* UKB_array_SVD_eigen90_extraction.tar.gz - MD5 sum ff3fadd7ea08bd29759b6c652618cd1f
 
 If you use this package, please cite the original work and all reference data used in your analysis.
 
