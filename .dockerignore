@@ -1,0 +1,5 @@
+*.sif
+.git
+singularity/*
+examples/*
+reference/*
