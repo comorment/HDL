@@ -10,6 +10,8 @@ The referece data was extracted from .tar.gz files:
 
 If you use this package, please cite the original work and all reference data used in your analysis.
 
+Changes are listed in the [CHANGELOG.md](CHANGELOG.md) file.
+
 # Getting started
 
 Start by following the Wiki of the original software package: https://github.com/zhenin/HDL/wiki
